@@ -1,4 +1,5 @@
-
+# NAMA  : MUHAMMAD ABDULLAH NURHIDAYAH
+# NIM  : 202131050
 ## PENJELASAN TEORI PROJEK LAHAN PARKIR
 
 Proyek ini menggunakan beberapa konsep dan teknik dasar dalam pemrosesan gambar untuk mendeteksi garis oranye dalam sebuah gambar. Berikut adalah penjelasan yang lebih ringkas:
